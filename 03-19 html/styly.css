@@ -1,0 +1,31 @@
+h1 { 
+    color: red;
+    background-color: orange;
+    text-align: center;
+    font-weight: normal;
+    font-style: italic;
+
+}
+
+/*Tomaš rikal že smrdí */
+h2 
+   {font-weight: 300;
+    text-transform: uppercase;
+
+
+}
+
+
+
+p {
+   font-weight: bold;
+   font-family: Arial, Helvetica, sans-serif; 
+
+
+
+}
+
+.velky{
+
+    font-size: 20px;
+}

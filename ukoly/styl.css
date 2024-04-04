@@ -1,0 +1,21 @@
+.nadpis{
+
+    text-align: center;
+
+}
+
+
+
+.marked {
+color: red;
+font-weight: bold;
+}
+.cisla { 
+ 
+    background-color: pink;
+    width:fit-content ;
+    text-align: center;
+    margin: auto;
+}
+
+
